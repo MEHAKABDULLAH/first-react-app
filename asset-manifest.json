@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/first-react-app/static/css/main.f855e6bc.css",
-    "main.js": "/first-react-app/static/js/main.4c203f78.js",
+    "main.css": "/first-react-app/static/css/main.b1fda76f.css",
+    "main.js": "/first-react-app/static/js/main.7ef32b24.js",
     "static/js/488.9c92ff38.chunk.js": "/first-react-app/static/js/488.9c92ff38.chunk.js",
+    "static/media/homeimage.jpg": "/first-react-app/static/media/homeimage.8a17cbdd568fc1d04c1c.jpg",
+    "static/media/chef.jpg": "/first-react-app/static/media/chef.404202ee843e2acf8db9.jpg",
+    "static/media/salas1.jpg": "/first-react-app/static/media/salas1.0a9068fb1a05780e4d06.jpg",
+    "static/media/salad3.jpg": "/first-react-app/static/media/salad3.7acb56da73024d103548.jpg",
+    "static/media/salad2.jpg": "/first-react-app/static/media/salad2.4b5ac2eaffa8e33ac382.jpg",
     "index.html": "/first-react-app/index.html",
-    "main.f855e6bc.css.map": "/first-react-app/static/css/main.f855e6bc.css.map",
-    "main.4c203f78.js.map": "/first-react-app/static/js/main.4c203f78.js.map",
+    "main.b1fda76f.css.map": "/first-react-app/static/css/main.b1fda76f.css.map",
+    "main.7ef32b24.js.map": "/first-react-app/static/js/main.7ef32b24.js.map",
     "488.9c92ff38.chunk.js.map": "/first-react-app/static/js/488.9c92ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.4c203f78.js"
+    "static/css/main.b1fda76f.css",
+    "static/js/main.7ef32b24.js"
   ]
 }
